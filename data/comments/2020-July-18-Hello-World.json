@@ -22,5 +22,13 @@
     "content": "test2",
     "createdAt": 1620572903333,
     "id": "h2avJomu3gucGp2PH0p-3liFR-gyxj"
+  },
+  {
+    "userId": "github-22468359",
+    "name": null,
+    "avatar": "https://avatars.githubusercontent.com/u/22468359?v=4",
+    "content": "test3",
+    "createdAt": 1620573003391,
+    "id": "rqnzTtwUqAPw8sjm5-Kf8v4NssNYfh"
   }
 ]
