@@ -6,37 +6,5 @@
     "content": "Hello comment",
     "createdAt": 1620407847954,
     "id": "qmGCBTPJN-Zvf84E-cAo2LK5Eg0eNX"
-  },
-  {
-    "userId": "github-22468359",
-    "name": null,
-    "avatar": "https://avatars.githubusercontent.com/u/22468359?v=4",
-    "content": "test",
-    "createdAt": 1620571418149,
-    "id": "T5nD2zP2fDub7TNf4uSK8dLKbXPNn0"
-  },
-  {
-    "userId": "github-22468359",
-    "name": null,
-    "avatar": "https://avatars.githubusercontent.com/u/22468359?v=4",
-    "content": "UI test",
-    "createdAt": 1620572268213,
-    "id": "k6BEIyaOb5gLcO3UbRjz6yW7KQubY8"
-  },
-  {
-    "userId": "github-22468359",
-    "name": null,
-    "avatar": "https://avatars.githubusercontent.com/u/22468359?v=4",
-    "content": "test 214",
-    "createdAt": 1620572334219,
-    "id": "XZJY3MnTak-w8AYDU_LRc-ctEZj8xB"
-  },
-  {
-    "userId": "github-22468359",
-    "name": null,
-    "avatar": "https://avatars.githubusercontent.com/u/22468359?v=4",
-    "content": "test1245",
-    "createdAt": 1620572364377,
-    "id": "KadWMO2BgewO3YRCgWav9kawspJ0g_"
   }
 ]
